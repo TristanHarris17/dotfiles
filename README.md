@@ -1,2 +1,2 @@
-# config
-all of my config files
+# dotfiles
+all of my dotfiles for syncing across machines
